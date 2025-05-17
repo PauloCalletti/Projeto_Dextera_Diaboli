@@ -9,7 +9,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
-
+  <div class="text-5xl text-red-600 font-bold p-10">
+    Dextera Diaboli está vivo 🔥
+  </div>
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
